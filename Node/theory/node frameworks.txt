@@ -1,0 +1,53 @@
+Node Frameworks
+
+ Express -
+	Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. 
+It facilitates the rapid development of Node based Web applications. Following are some of the core features of Express framework -
+Allows to set up middlewares to respond to HTTP Requests.
+
+Defines a routing table which is used to perform different actions based on HTTP Method and URL.
+
+Allows to dynamically render HTML Pages based on passing arguments to templates.  
+
+ HAPI:
+	Hapi.js is an open source framework built on top of Node.js that creates web applications and services. Hapi is configuration-centric
+	It has authentication and authorization built into the framework
+	It was released in a battle tested atmosphere and has really proven its worth
+	All the modules have 100% test coverage
+	It registers the highest level of abstraction away from core http
+	Easily compassable via plugin architecture
+       
+ Flatiron:
+	Flatiron is yet another Node.js MVC web application framework. What sets Flatiron apart from other frameworks is its package-based approach. 
+Since it gives the power and freedom to decide how much or how little the framework should include, developers can pick and choose the packages they want to
+work with and include with their project. It handles a lot of the basic data management responsibilities and CRUD for you by supplying a powerful ODM that takes
+ care of a lot of the heavy lifting.
+   
+ locomotive:   
+	Locomotive is a web framework for Node.js. Locomotive supports MVC patterns, RESTful routes, and convention over configuration, 
+while integrating seamlessly with any database and template engine. Locomotive builds on Express, preserving the power and simplicity you've come to expect 
+from Node.
+ Features:
+	MVC architecture
+	Convention over configuration
+	Expressive routing
+	Routing helpers
+	Connects to any database
+	Renders with any template engine
+	Adheres to REST principles
+	Built on Express
+
+total.js   :
+	Total.js Framework is a full-featured Node.js framework that effectively improves the most important aspects of your project during its lifetime.
+ Super fast development, extremely low maintenance costs, rock solid stability, incredible performance and easy scaling. It's our core for all projects.
+
+ koa.js   :
+	Koa is a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web
+ applications and APIs. By leveraging async functions, Koa allows you to ditch callbacks and greatly increase error-handling. Koa does not bundle any middleware
+ within its core, and it provides an elegant suite of methods that make writing servers fast and enjoyable.
+
+ Sails.js :
+	Sails.js is another MVC microframework that’s great for data-heavy enterprise-grade apps, and it’s built off of Express.js. It’s used for HTTP requests, with some
+ Ruby on Rails-inspired magic. Its MVC pattern is based on Express and Socket.IO and is ideal for writing data-oriented applications and real-time features like 
+a chat application. It’s also compatible with a ton of front-end frameworks, like AngularJS. Where it differs (and shines) is its API structure, automatically
+ generating RESTful JSON models with support for websockets and HTTP. :
